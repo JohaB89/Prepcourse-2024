@@ -1,2 +1,1 @@
-# Prepcourse-2024
-Este es un repositorio de prueba del módulo 2 del prepcurse 2024.
+Este proyecto es una prueba para ver cómo crear un repositorio y clonarlo desde github a mi escritorio local.
